@@ -102,7 +102,7 @@ public class Courses {
             return;
         }
 
-        // Calculate the average grade for the course
+        
         double averageGrade = averageGrade();
 
         System.out.println("Students and Their Performance relative to Course Average:");
