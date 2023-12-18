@@ -22,7 +22,7 @@ public class Main {
             System.out.print("Enter your choice: ");
 
             choice = scanner.nextInt();
-            scanner.nextLine(); // consume the newline
+            scanner.nextLine(); 
 
             switch (choice) {
                 case 1:
